@@ -1,0 +1,7 @@
+streamlit
+plotly
+pandas 
+datetime
+scikit-learn
+streamlit
+xgboost
