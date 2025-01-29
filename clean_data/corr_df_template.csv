@@ -1,0 +1,22 @@
+T2,T4,T5,T7,T9,T12,T14,T15,D irr,E irr,50% water,100% water,D_50,D_100,E_50,E_100,sensor b,sensor a,row number
+,,,,,,,,,,,,,,,,tdr_salt_80,tdr_salt_40,1
+,,,,,,,,,,,,,,,,tdr_water_40,tdr_salt_40,2
+,,,,,,,,,,,,,,,,tdr_water_80,tdr_salt_40,3
+,,,,,,,,,,,,,,,,tensiometer_40,tdr_salt_40,4
+,,,,,,,,,,,,,,,,tensiometer_80,tdr_salt_40,5
+,,,,,,,,,,,,,,,,frond_growth_rate,tdr_salt_40,6
+,,,,,,,,,,,,,,,,tdr_water_40,tdr_salt_80,7
+,,,,,,,,,,,,,,,,tdr_water_80,tdr_salt_80,8
+,,,,,,,,,,,,,,,,tensiometer_40,tdr_salt_80,9
+,,,,,,,,,,,,,,,,tensiometer_80,tdr_salt_80,10
+,,,,,,,,,,,,,,,,frond_growth_rate,tdr_salt_80,11
+,,,,,,,,,,,,,,,,tdr_water_80,tdr_water_40,12
+,,,,,,,,,,,,,,,,tensiometer_40,tdr_water_40,13
+,,,,,,,,,,,,,,,,tensiometer_80,tdr_water_40,14
+,,,,,,,,,,,,,,,,frond_growth_rate,tdr_water_40,15
+,,,,,,,,,,,,,,,,tensiometer_40,tdr_water_80,16
+,,,,,,,,,,,,,,,,tensiometer_80,tdr_water_80,17
+,,,,,,,,,,,,,,,,frond_growth_rate,tdr_water_80,18
+,,,,,,,,,,,,,,,,tensiometer_80,tensiometer_40,19
+,,,,,,,,,,,,,,,,frond_growth_rate,tensiometer_40,20
+,,,,,,,,,,,,,,,,frond_growth_rate,tensiometer_80,21
